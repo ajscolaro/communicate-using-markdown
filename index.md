@@ -11,10 +11,10 @@ Sample dropdown text
 </summary> </details>
 
 ## List Test
-- list item 1
-- list item 2
-  - list item 2.a
-- list item 3
+- [] list item 1
+- [] list item 2
+  - [] list item 2.a
+- [] list item 3
 
 ## Quote Test
 > blockquote
